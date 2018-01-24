@@ -18,17 +18,17 @@ header{
 
 section{
   padding: 10px;
-  background-color: orange;
+  background-color: pink;
 }
 
 aside{
   padding: 10px;
-  background-color: green;
+  background-color: red;
 }
 
 footer{
   padding: 10px;
-  background-color: blue;
+  background-color: pink;
   text-align: center;
 }
 
